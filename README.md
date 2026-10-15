@@ -16,7 +16,7 @@
 [Скриншот приложения](img/step9_Глазков.png)
 
 ## Запуск проекта
-1. Клонировать репозиторий: `git clone <ссылка>`
+1. Клонировать репозиторий: `git clone <https://github.com/cocos812/Flutter_Lab3.git>`
 2. Перейти в директорию проекта: `cd Flutter_Lab3`
 3. Установить зависимости: `flutter pub get`
 4. Запустить приложение: `flutter run -d chrome`
